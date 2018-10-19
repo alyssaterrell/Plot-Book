@@ -1,12 +1,12 @@
 # Plot-Book
 - beginning of the book should be a thank you to Krista and Erika for giving me and other authors an opportunity to be a part of the cultivation of the book
 # Ideas
-
 This is a file to record ideas for book content (very preliminary at this point). 
 
 - introduction
   - introduce readers to the site
-     -location, how long it's been running, acres, work that is being done, who is doing the work (briefly - will be going more in depths in methods)
+     - why they should care
+     - location, how long it's been running, acres, work that is being done, who is doing the work (briefly - will be going more in depths in methods)
 - methods
   - field methods: describe site specifics, multistesm issues, person-hours.
   - data management:
@@ -21,6 +21,7 @@ This is a file to record ideas for book content (very preliminary at this point)
   - soils
 - tree species (largest portion of book)
   - maps
+    - plant ranges
   - stats and simple graphs on abundance, growth, mortality (by size)
   - architecture (e.g., allometries for height, biomass, sapwood,...)
   - leaf traits
@@ -35,5 +36,7 @@ This is a file to record ideas for book content (very preliminary at this point)
   - increased amount of rain
   - sudden change in temperature (was 70° one week and then 30° the next)
 - carbon cycling
-
-
+- conclusion
+  - reiterate why the general population should care
+  - include causes that are already put into place for forestry protection
+  - set forth a cause on how to better care
