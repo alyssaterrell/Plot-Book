@@ -1,8 +1,15 @@
 ---
 title: "Smithsonian Conservation Biology Institute: Plot Book"
 author: "Alyssa Terrell"
-date: "November 9, 2018"
-output: html_document
+date: "2018"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+bibio-stlye: apalike
+link-citation: yes
+github-repo: alyssaterrell/Plot-Book
+discription: "This is an overview of the data that has been collected within the research plot located at Smithsonian Conservation Biology Institute."
 ---
 
 <h2>Chapter 1: Introduction</h2>
